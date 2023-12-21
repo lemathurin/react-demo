@@ -1,0 +1,35 @@
+.tag {
+    display: inline-flex;
+    height: 25px;
+    padding: 0px 15px;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.text {
+    color: white;
+    font-weight: 700;
+}
+
+.blue {
+    background-color: #839DDE;
+  }
+  
+.green {
+    background-color: rgb(104, 188, 104);
+}
+
+.red {
+    background-color: #FF5A5F;
+}
+
+.orange {
+    background-color: #F79D65;
+}
+
+.pink {
+    background-color: #f765c2;
+}
